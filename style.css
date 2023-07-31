@@ -1,0 +1,39 @@
+h1{
+   text-align: center;
+   color: cadetblue;
+}
+h3{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#list{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+#list{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.type-color{
+    color: burlywood;
+    margin: 10px;
+    border-radius: 15px;
+    border-color: black;
+    text-align: center;
+}
+
+.para{
+    text-align: center;
+}
+
+.header-two{
+    text-align: center;
+}
